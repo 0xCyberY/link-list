@@ -1,0 +1,81 @@
+ LINKED LIST IMPLEMENTATION
+
+ 1) Insert at front end
+
+ 2) Insert at rear end
+
+ 3) Display
+
+ 4) Search
+
+ 5) Delete at front end
+
+ 6) Delete at rear end
+
+ 7) Exit
+
+ Enter your choice :
+1
+
+ Enter the element to be inserted atthe front end of linked list :
+15
+
+ LINKED LIST IMPLEMENTATION
+
+ 1) Insert at front end
+
+ 2) Insert at rear end
+
+ 3) Display
+
+ 4) Search
+
+ 5) Delete at front end
+
+ 6) Delete at rear end
+
+ 7) Exit
+
+ Enter your choice :
+2
+
+ Enter the element to be inserted at the rear end of the linked list :
+14
+
+ LINKED LIST IMPLEMENTATION
+
+ 1) Insert at front end
+
+ 2) Insert at rear end
+
+ 3) Display
+
+ 4) Search
+
+ 5) Delete at front end
+
+ 6) Delete at rear end
+
+ 7) Exit
+
+ Enter your choice :
+3
+15->14->
+ LINKED LIST IMPLEMENTATION
+
+ 1) Insert at front end
+
+ 2) Insert at rear end
+
+ 3) Display
+
+ 4) Search
+
+ 5) Delete at front end
+
+ 6) Delete at rear end
+
+ 7) Exit
+
+ Enter your choice :
+7
